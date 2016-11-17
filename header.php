@@ -47,7 +47,7 @@
 		<div class="container">
 				<div class="navbar-header">
 					<div class="navbar-brand"> 
-						Kamal Consult
+						<a href="index.php">Kamal Consult</a>
 					<ul class="list-inline connect">
 					<li> </li>
                     	<!-- <li><a href="#"><span class="fa fa-facebook"></span></a></li>
@@ -64,9 +64,9 @@
 				</div>
 			 	<div class="collapse navbar-collapse col-md-12 text-center pull-right">
 			 		<ul class="navbar-nav nav">
-			 			<li><a href="index.html">Home</a></li>
+			 			<li><a href="index.php">Home</a></li>
 			 		<!-- 	<li><a href="about.html">About</a></li> -->
-			 			<li><a href="testimonials.html">Testimonials</a></li>
+			 			<li><a href="testimonials.php">Testimonials</a></li>
 			 		<!-- 	<li><a href="contact.html">Contact</a></li> -->
 			 		</ul>
 			 	</div>

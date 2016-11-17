@@ -53,8 +53,8 @@
 <section class="row">
 	<section class="container">
 		<section class="col-md-6">
-		<h4>Key Benefits</h4>
-
+		<h4>Our Services</h4>
+<!-- 
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat libero dolore labore earum qui perferendis aspernatur ratione excepturi, sit! Officia nemo, quae, esse fugiat commodi, ipsam, voluptatem optio asperiores sequi debitis blanditiis expedita minima. Sunt illo in natus obcaecati quas. Harum sapiente dignissimos perspiciatis beatae aspernatur cum, soluta quibusdam fugiat?</p>
 
 		<ul class="benefit-list">
@@ -63,7 +63,40 @@
 			<li>We help align your brand strategy with key objectives</li>
 			<li>We help align your brand strategy with key objectives</li>
 			<li>We help align your brand strategy with key objectives</li>
-		</ul>
+		</ul> -->
+			<section class="col-md-12 ">
+				<section class="col-md-6">
+						<ul class="text-center services">
+							<li><span class="fa fa-cogs fa-4x"></span></li>
+							<li>Search</li>
+						</ul>
+				</section>
+
+				<section class="col-md-6">
+					<ul class="text-center services">
+							<li><span class="fa fa-wrench fa-4x"></span></li>
+							<li>Consulting</li>
+						</ul>
+				</section>
+
+
+				<section class="col-md-6">
+			
+				<ul class="text-center services">
+							<li><span class="fa fa-tachometer fa-4x"></span></li>
+							<li>Application</li>
+						</ul>
+				</section>
+
+
+				<section class="col-md-6">
+				
+				<ul class="text-center services">
+							<li><span class="fa fa-users fa-4x"></span></li>
+							<li>Support</li>
+						</ul>
+				</section>
+			</section>
 		</section>
 		<section class="col-md-6">
 			<h4>Frequently Asked Questions</h4>
@@ -122,9 +155,13 @@
 
 <!--  -->
 <!--  -->
+
+<section class="row header-blue-smaller">
+<h3>Our Client's testimonials <a href="testimonials.php" class="btn btn-success">Share Your Success Story</a></h3>
+</section>
 <section class="row">
 <section class="container">
-<h3>Testimonials</h3>
+
 	<section class="col-md-3">
 	
 			<section class="thumbnail">

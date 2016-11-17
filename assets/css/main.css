@@ -472,14 +472,26 @@ h3, h4 {
     color: #aaa;
     text-decoration: none; }
 
+.services li {
+  list-style: none; }
+
 .img-circle {
   border: 2px solid #aaa; }
 
 .header-blue {
   background: #0074D9;
   padding: 3%;
-  color: #fff; }
+  color: #fff;
+  margin-bottom: 3%; }
   .header-blue h3 {
+    color: #fff; }
+
+.header-blue-smaller {
+  background: #0074D9;
+  padding: 1%;
+  color: #fff;
+  margin-bottom: 3%; }
+  .header-blue-smaller h3 {
     color: #fff; }
 
 a {
@@ -500,6 +512,9 @@ a:hover {
   -webkit-font-smoothing: antialiases;
   width: 1em;
   color: #FF4136; }
+
+footer li {
+  list-style: none; }
 
 .icon-bar {
   background: #111; }

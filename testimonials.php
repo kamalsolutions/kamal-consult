@@ -1,77 +1,213 @@
 <?php include 'header.php' ?>
 
 <section class="row">
-	<!-- slider -->
+  <!-- slider -->
 </section>
 <!--  -->
+<!--  -->
+<!-- <section class="row">
+  <section class="container">
+    <section class="col-md-4">
+    
+      <section class="thumbnail">
+      <h4>About Us</h4>
+        <section class="caption">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
+          <p><a href="about.html">Discover</a></p>
+        </section>
+      </section>
+    </section>
 
+
+    <section class="col-md-4">
+      <section class="thumbnail">
+      <h4>Over 300 Happy Clients</h4>
+        <section class="caption">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
+            <p><a href="testimonials.html">Discover</a></p>
+        </section>
+      </section>
+    </section>
+
+
+    <section class="col-md-4">
+      <section class="thumbnail">
+      <h4>Placement Insights</h4>
+        <section class="caption">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
+            <p><a href="contact.html">Discover</a></p>
+        </section>
+      </section>
+    </section>
+  </section>
+</section>
+ -->
+<!--  -->
+<!--  -->
+<section class="row header-blue">
+  <h3 class="text-center">Let's help you make the right educational choice</h3>
+</section>
+
+<!--  -->
+<!--  -->
+<section class="row">
+  <section class="container">
+    <section class="col-md-6">
+    <h4>Our Services</h4>
+<!-- 
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat libero dolore labore earum qui perferendis aspernatur ratione excepturi, sit! Officia nemo, quae, esse fugiat commodi, ipsam, voluptatem optio asperiores sequi debitis blanditiis expedita minima. Sunt illo in natus obcaecati quas. Harum sapiente dignissimos perspiciatis beatae aspernatur cum, soluta quibusdam fugiat?</p>
+
+    <ul class="benefit-list">
+      <li>We help you understand customer behaviors and what they reveal</li>
+      <li>We help resolve the pricing paradox to enable growth</li>
+      <li>We help align your brand strategy with key objectives</li>
+      <li>We help align your brand strategy with key objectives</li>
+      <li>We help align your brand strategy with key objectives</li>
+    </ul> -->
+      <section class="col-md-12 ">
+        <section class="col-md-6">
+            <ul class="text-center services">
+              <li><span class="fa fa-cogs fa-4x"></span></li>
+              <li>Search</li>
+            </ul>
+        </section>
+
+        <section class="col-md-6">
+          <ul class="text-center services">
+              <li><span class="fa fa-wrench fa-4x"></span></li>
+              <li>Consulting</li>
+            </ul>
+        </section>
+
+
+        <section class="col-md-6">
+      
+        <ul class="text-center services">
+              <li><span class="fa fa-tachometer fa-4x"></span></li>
+              <li>Application</li>
+            </ul>
+        </section>
+
+
+        <section class="col-md-6">
+        
+        <ul class="text-center services">
+              <li><span class="fa fa-users fa-4x"></span></li>
+              <li>Support</li>
+            </ul>
+        </section>
+      </section>
+    </section>
+    <section class="col-md-6">
+      <h4>Frequently Asked Questions</h4>
+
+
+      <div class="panel-group" id="accordion"> 
+
+      <!-- panel  1 -->
+        <div class="panel panel-default"> 
+        <div class="panel-heading">
+       <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne">What Do I need to produce? </a>
+       </h4> 
+         </div> 
+       <div id="collapseOne" class="panel-collapse collapsing"> 
+       <div class="panel-body"> 
+        <p>all you have to produce are your papers</p>
+      </div> </div> 
+      </div> 
+      <!-- /panel 1 -->
+
+      <!-- panel  2 -->
+        <div class="panel "> 
+        <div class="panel-heading">
+       <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">How does the process work?</a>
+       </h4> 
+         </div> 
+       <div id="collapseTwo" class="panel-collapse collapsing"> 
+       <div class="panel-body"> 
+        <p>Depending on how we structure the project, you should expect to spend anywhere from 10-30 hours on the process over the course of a typical engagement. </p>
+      </div> </div> 
+      </div> 
+      <!-- /panel 2 -->
+
+          <!-- panel  2 -->
+        <div class="panel "> 
+        <div class="panel-heading">
+       <h4 class="panel-title">
+        <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">How does the process work?</a>
+       </h4> 
+         </div> 
+       <div id="collapseThree" class="panel-collapse collapsing"> 
+       <div class="panel-body"> 
+        <p>Depending on how we structure the project, you should expect to spend anywhere from 10-30 hours on the process over the course of a typical engagement. </p>
+      </div> </div> 
+      </div> 
+      <!-- /panel 3 -->
+       </div>
+    </section>
+  </section>
+</section>
+
+<!--  -->
+<!--  -->
+
+<!--  -->
+<!--  -->
+
+<section class="row header-blue-smaller">
+<h3>Our Client's testimonials <a href="testimonials.php" class="btn btn-success">Share Your Success Story</a></h3>
+</section>
 <section class="row">
 <section class="container">
-   <section class="col-md-8">
-   	<div>
-   	  <h1>
-          <font style="font-size: 36px;">Share your experience with us</font>
-        </h1>
-                <p>Contact us about anything related to our company or services.</p>
-                <p>We'll do our best to get back to you as soon as possible.</p>
-              </div>
-            </div>
-            <div>
-      <form action="/website_form/" method="post" data-model_name="crm.lead" data-success_page="/page/website_crm.contactus_thanks" class="s_website_form form-horizontal container-fluid mt32" enctype="multipart/form-data">
-        <div class="form-group form-field o_website_form_required_custom">
-          <label class="col-md-3 col-sm-4 control-label" for="contact_name">Your Name</label>
-          <div class="col-md-7 col-sm-8">
-            <input type="text" class="form-control o_website_form_input" name="contact_name" required="" value=""/>
-          </div>
-        </div>
-        <div class="form-group form-field">
-          <label class="col-md-3 col-sm-4 control-label" for="phone">Phone Number</label>
-          <div class="col-md-7 col-sm-8">
-            <input type="text" class="form-control o_website_form_input" name="phone" value=""/>
-          </div>
-        </div>
-        <div class="form-group form-field o_website_form_required_custom">
-          <label class="col-md-3 col-sm-4 control-label" for="email_from">Email</label>
-          <div class="col-md-7 col-sm-8">
-            <input type="text" class="form-control o_website_form_input" name="email_from" required="" value=""/>
-          </div>
-        </div>
-       <div class="form-group form-field o_website_form_required_custom">
-          <label class="col-md-3 col-sm-4 control-label" for="description">Your Comment</label>
-          <div class="col-md-7 col-sm-8">
-            <textarea class="form-control o_website_form_input" name="description" required="">
-              
-            </textarea>
-          </div>
-        </div>
-        <div class="form-group">
-          <div class="col-md-offset-3 col-sm-offset-4 col-sm-8 col-md-7">
-            <span class="btn btn-primary btn-lg o_website_form_send">Send</span>
-            <span id="o_website_form_result"></span>
-          </div>
-        </div>
-      </form>
-   </section>
 
-   <section class="col-md-4" style="margin-top: 7%">
-   	
-   	      <div itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress">
-            <div>
-                <i class="fa fa-map-marker"></i> <span itemprop="streetAddress">France / Ghana</span>
-            </div>
-            
-            <div><i class="fa fa-phone"></i> <span itemprop="telephone">+33 62 513 0416 / +233 26 632 8115</span></div>
-            
-            
-            
-            <div><i class="fa fa-envelope"></i> <span itemprop="email">info@kamalconsult.org</span></div>
-        </div>
-    </address>
-</div>
+  <section class="col-md-3">
+  
+      <section class="thumbnail">
+      <img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
+        <h4>Judy Me</h4>
+        <section class="caption">
+          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
         
-            <span class="fa fa-map-marker fa-fw mt16"></span> <a target="_BLANK" href="https://maps.google.com/maps?q=%2C++%2C+France&amp;z=8"> Google Maps</a>
+        </section>
+      </section>
+    </section>
+
+
+    <section class="col-md-3">
+      <section class="thumbnail">
+        <img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
+        <h4>Jon Doe</h4>
+        <section class="caption">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
+          
+        </section>
+      </section>
+    </section>
+
+
+    <section class="col-md-3">
+      <section class="thumbnail">
+      <img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
+        <h4>Bony Clyde</h4>
+        <section class="caption">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
         
-   </section>
+        </section>
+      </section>
+    </section>
+
+      <section class="col-md-3">
+      <section class="thumbnail">
+        <img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
+        <h4>David Solomon</h4>
+        <section class="caption">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
+          
+        </section>
+      </section>
+    </section>
 </section>
 </section>
 

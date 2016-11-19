@@ -161,55 +161,16 @@
 </section>
 <section class="row">
 <section class="container">
-
-	<section class="col-md-3">
-	
-			<section class="thumbnail">
-			<img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
-				<h4>Judy Me</h4>
-				<section class="caption">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
-				
-				</section>
-			</section>
-		</section>
-
-
-		<section class="col-md-3">
-			<section class="thumbnail">
-				<img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
-				<h4>Jon Doe</h4>
-				<section class="caption">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
-					
-				</section>
-			</section>
-		</section>
-
-
-		<section class="col-md-3">
-			<section class="thumbnail">
-			<img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
-				<h4>Bony Clyde</h4>
-				<section class="caption">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
-				
-				</section>
-			</section>
-		</section>
-
-			<section class="col-md-3">
-			<section class="thumbnail">
-				<img src="assets/img/user.jpg" class="img-circle img-responsive" alt="">
-				<h4>David Solomon</h4>
-				<section class="caption">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam aperiam tenetur illum optio deleniti eveniet officiis cumque vero culpa sint.</p>
-					
-				</section>
-			</section>
-		</section>
 </section>
 </section>
 
-
+<section class="row header-blue-smaller">
+<section class="col-md-8">
+	<h5 style="color:#fff">Let us know if you have any specific inquiries about Kamal Consult, or if you have any comments regarding anything, or even if you just want to say “Hi”.</h5>
+</section>
+<section class="col-md-4" style="margin-left: -40px">
+	<a href="contact.php" class="btn btn-success hidden-xs">Contact us</a>
+<a href="" class="text-center btn-lg btn-success center-block visible-xs">Contact us</a>
+</section>
+</section>
 <?php include 'footer.php' ?>

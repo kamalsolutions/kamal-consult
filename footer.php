@@ -20,7 +20,7 @@
     </ul>
     </section>
     <section class="col-md-4">
-    <h3>Kamal Consult - <span class="small">About Us</span></h3>
+    <h3>Kamal Consult - <span class="small"><a href="about.php">About Us</a></span></h3>
       <p>
         We are a team of passionate people whose goal is to assist people connect with their desired educational path. We help you through step-by-step process from successfully finding your desired school to applying for your desired course of study.
       </p>

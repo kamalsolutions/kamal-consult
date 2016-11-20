@@ -533,12 +533,16 @@ footer li {
   margin-top: -5px;
   padding: 1%;
   color: #fff; }
+  .pricing-header h3 {
+    color: #fff; }
 
 .phd-orange {
-  background: #FF851B;
+  background: #f45;
   margin-top: -5px;
   padding: 1%;
   color: #fff; }
+  .phd-orange h3 {
+    color: #fff; }
 
 .list-yes:before {
   content: "";
@@ -557,5 +561,14 @@ em {
 
 .navbar-brand a {
   color: #fff; }
+
+.tp-caption {
+  width: 600px;
+  font-size: small;
+  font-weight: normal; }
+
+.News-Title .tp-caption-1 {
+  font-size: small;
+  font-weight: normal; }
 
 /*# sourceMappingURL=main.css.map */

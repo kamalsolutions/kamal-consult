@@ -6,19 +6,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="shortcut icon" href="assets/img/favicons/favicon.ico">
 
-  <link rel="stylesheet" href="assets/css/main.css" />
 
-		<!-- RS5.0 Main Stylesheet -->
-		<link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
-		 
-		<!-- RS5.0 Layers and Navigation Styles -->
-		<link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
-		<link rel="stylesheet" type="text/css" href="revolution/css/navigation.css"> 
-		 
-     <script src="jquery.js"></script>
-		<!-- RS5.0 Core JS Files -->
-		<script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js?rev=5.0"></script>
-		<script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js?rev=5.0"></script>
+        <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+ 
+<!-- RS5.0 Layers and Navigation Styles -->
+<link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+<link rel="stylesheet" type="text/css" href="revolution/css/navigation.css"> 
+
+<!-- RS5.0 Main Stylesheet -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/settings.css">
+     
+    <!-- RS5.0 Layers and Navigation Styles -->
+    <link rel="stylesheet" type="text/css" href="revolution/css/layers.css">
+    <link rel="stylesheet" type="text/css" href="revolution/css/navigation.css"> 
+     
+     <script src="js/jquery.js"></script>
+    <!-- RS5.0 Core JS Files -->
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.tools.min.js?rev=5.0"></script>
+    <script type="text/javascript" src="revolution/js/jquery.themepunch.revolution.min.js?rev=5.0"></script>
+        <link rel="stylesheet" href="assets/css/main.css" />
 </head>
 <body>
 <!-- navigation -->
@@ -29,7 +35,7 @@
 			<ul class="list-inline">
 		<ul class="list-inline pull-left social">
 			<li><span class="fa fa-map-marker"></span> France / Ghana</li>
-			<li><a href="mailto:info@kamalsolutions.co"><i class="fa fa-envelope" style="color:#ee3853"></i>&nbsp;info@kamalconsult.com</a> </li>
+			<li><i class="fa fa-envelope"></i> <span itemprop="email"><a href="mailto:info@kamalconsult.com">info@kamalconsult.com</a></span></li>
 			<li><span class="fa fa-phone fa-1x"> +33 62 513 0416  / +233 266328115 </span></li>
 
 		</ul>

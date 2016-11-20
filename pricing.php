@@ -7,7 +7,7 @@
             <h3>Basic</h3>
           </section>
           <section class="pricing">
-                 <h3 class="text-center"> <small>C</small> 100 <small>.00</small> </h3>
+                 <h3 class="text-center"> <small>¢</small> 100 <small>.00</small> </h3>
                <h5 class="text-center">/user</h5>
           </section>
     
@@ -29,7 +29,7 @@
                <h3>Deluxe</h3>
              </section>
              <section class="pricing">
-               <h3 class="text-center"> <small>C</small> 250 <small>.00</small> </h3>
+               <h3 class="text-center"> <small>¢</small> 250 <small>.00</small> </h3>
                <h5 class="text-center">/user</h5>
 
 
@@ -55,7 +55,7 @@
               <h3>Complete</h3>
             </section>
             <section class="pricing">
-                 <h3 class="text-center"> <small>C</small> 500 <small>.00</small> </h3>
+                 <h3 class="text-center"> <small>¢</small> 500 <small>.00</small> </h3>
                <h5 class="text-center">/user</h5>
               
             </section>

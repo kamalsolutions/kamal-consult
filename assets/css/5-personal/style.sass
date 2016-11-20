@@ -1,5 +1,5 @@
 .navbar
-	background: #fff
+	background: #78909c
 	padding-top: 1%
 	padding-bottom: 1%
 
@@ -7,11 +7,14 @@
 	color: $black
 
 
-
+*
+	box-sizing: border-box
+	-webkit-box-sizing: border-box
+	-moz-box-sizing: border-box
 
 .navbar-nav>li>a:hover
 	color: $black
-	background: transparent
+	background: $white
 	border: 2px solid $black
 	transition: 4s ease in
 
@@ -43,13 +46,13 @@ h3,h4
 		padding-right: 40%
 
 .top-header
-	background: $blue
-	color: $white
+	background: $white
+	color: $black
 	padding: 2%
 	margin-top: -2%
 
 	a
-		color: $white
+		color: $black
 		text-decoration: none
 
 	a:hover
@@ -108,3 +111,40 @@ footer
 
 .icon-bar
 	background: $black
+
+
+.featured-list 
+	li
+		list-style: none
+		margin-bottom: 1%
+
+.pricing-header
+	background: $blue
+	margin-top: -5px
+	padding: 1%
+	color: $white
+
+.phd-orange
+	background: $orange
+	margin-top: -5px
+	padding: 1%
+	color: $white
+
+.list-yes:before
+	content: "\f05d"
+	font-family: "FontAwesome"
+	color: $green
+	margin-right: 1%
+
+.list-no:before
+	content: "\f057"
+	font-family: "FontAwesome"
+	color: $red
+	margin-right: 1%
+
+em
+	margin-top: 1%
+
+.navbar-brand
+	a
+		color: $white

@@ -23,7 +23,7 @@
 <section class="col-md-6">
 	
 </section>
-</section>
+ </section>
 
 </section>
 

@@ -3,6 +3,7 @@
     <section class="col-md-4">
       <h3>Useful Links</h3>
         <ul>
+          <li><a href="pricing.php">Pricing</a></li>
           <li><a href="http://www.campusfrance.org" target="_blank">Campus France Ghana</a></li>
           <li><a href="http://www.ambafrance-gh.org" target="_blank">French Embassy Ghana</a></li>
           <li><a href="http://paris.embassy.gov.gh" target="_blank">Ghanaian Embassy France</a></li>

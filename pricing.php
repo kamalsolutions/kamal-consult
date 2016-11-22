@@ -1,7 +1,11 @@
 <?php include 'header.php' ?>
 
 <section class="row">
+
+<h3 class="text-center">Find Your School And Study Program Now</h3>
+<br>
   <section class="container price-model">
+  <h4 class="text-center" style="color:#3d4">For further details on packages  contact us</h4>
     <section class="col-md-4 ">
     <section class="thumbnail">  <section class="pricing-header  page-header">
             <h3>Basic</h3>

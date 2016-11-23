@@ -80,16 +80,16 @@
  -->
 <!--  -->
 <!--  -->
-<section class="row header-blue">
+<section class="row header-1">
 	<h3 class="text-center">Let's help you make the right educational choice</h3>
 </section>
 
 <!--  -->
 <!--  -->
-<section class="row">
+<section class="row" style="background:#f7f7f7; margin-top:-40px;padding:1%" >
 	<section class="container">
 		<section class="col-md-6">
-		<h4>Our Services</h4>
+		<h4><span style="color:#2ecc40">Our</span> Services</h4>
 <!-- 
 		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat libero dolore labore earum qui perferendis aspernatur ratione excepturi, sit! Officia nemo, quae, esse fugiat commodi, ipsam, voluptatem optio asperiores sequi debitis blanditiis expedita minima. Sunt illo in natus obcaecati quas. Harum sapiente dignissimos perspiciatis beatae aspernatur cum, soluta quibusdam fugiat?</p>
 
@@ -135,7 +135,7 @@
 			</section>
 		</section>
 		<section class="col-md-6">
-			<h4>Frequently Asked Questions</h4>
+			<h4><span style="color:#2ecc40">Our</span> FAQ</h4>
 
 
 			<div class="panel-group" id="accordion"> 
@@ -155,7 +155,7 @@
 			<!-- /panel 1 -->
 
 			<!-- panel  2 -->
-				<div class="panel "> 
+				<div class="panel panel-default "> 
 				<div class="panel-heading">
 			 <h4 class="panel-title">
 			  <a data-toggle="collapse" data-parent="#accordion" href="#collapseTwo">How does the process work?</a>
@@ -169,7 +169,7 @@
 			<!-- /panel 2 -->
 
 					<!-- panel  2 -->
-				<div class="panel "> 
+				<div class="panel panel-default "> 
 				<div class="panel-heading">
 			 <h4 class="panel-title">
 			  <a data-toggle="collapse" data-parent="#accordion" href="#collapseThree">How does the process work?</a>
@@ -192,8 +192,8 @@
 <!--  -->
 <!--  -->
 
-<section class="row header-blue-smaller">
-<h3>Our Client's testimonials <a href="testimonials.php" class="btn btn-success">Share Your Success Story</a></h3>
+<section class="row header-1">
+<h3><span style="color:#2c3e50">Testimonials</span> From Our Client <a href="testimonials.php" class="btn btn-success">Share Your Success Story</a></h3>
 </section>
 <section class="row">
 
@@ -216,14 +216,10 @@
           <div class="item active">
             <blockquote>
               <div class="row">
-                <div class="col-sm-3 text-center">
-                  <img class="img-circle" src="http://www.reactiongifs.com/r/overbite.gif" style="width: 100px;height:100px;">
-                  <!--<img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/kolage/128.jpg" style="width: 100px;height:100px;">-->
-                </div>
-                <div class="col-sm-9">
-                  <p>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit!</p>
-                  <small>Someone famous</small>
-                </div>
+                  <img class="img-circle center-block img-responsive" src="http://www.reactiongifs.com/r/overbite.gif" style="width: 100px;height:100px;">
+                  <p class="text-center">Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit! <small>Someone famous</small></p>
+                  
+            
               </div>
             </blockquote>
           </div>
@@ -231,13 +227,12 @@
           <div class="item">
             <blockquote>
               <div class="row">
-                <div class="col-sm-3 text-center">
-                  <img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/mijustin/128.jpg" style="width: 100px;height:100px;">
-                </div>
-                <div class="col-sm-9">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor nec lacus ut tempor. Mauris.</p>
-                  <small>Someone famous</small>
-                </div>
+             
+                  <img class="img-circle center-block img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/mijustin/128.jpg" style="width: 100px;height:100px;">
+        
+                  <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor nec lacus ut tempor. Mauris. <small>Someone famous</small></p>
+                  
+             
               </div>
             </blockquote>
           </div>
@@ -245,14 +240,12 @@
           <div class="item">
             <blockquote>
               <div class="row">
-                <div class="col-sm-3 text-center">
-                  <img class="img-circle" src="https://s3.amazonaws.com/uifaces/faces/twitter/keizgoesboom/128.jpg" style="width: 100px;height:100px;">
-                </div>
-                <div class="col-sm-9">
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum elit in arcu blandit, eget pretium nisl accumsan. Sed ultricies commodo tortor, eu pretium mauris.</p>
-                  <small>Someone famous</small>
-                </div>
-              </div>
+    
+                  <img class="img-circle center-block img-responsive" src="https://s3.amazonaws.com/uifaces/faces/twitter/keizgoesboom/128.jpg" style="width: 100px;height:100px;">
+            
+                  <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut rutrum elit in arcu blandit, eget pretium nisl accumsan. Sed ultricies commodo tortor, eu pretium mauris. <small>Someone famous</small></p>
+           
+                          </div>
             </blockquote>
           </div>
         </div>
@@ -265,7 +258,7 @@
   </div>
 </section>
 
-<section class="row header-blue-smaller" style="margin-top:4%">
+<section class="row header-1" style="margin-top:4%">
 <section class="col-md-8">
 	<h5 style="color:#fff">Let us know if you have any specific inquiries about Kamal Consult, or if you have any comments regarding anything, or even if you just want to say “Hi”.</h5>
 </section>

@@ -1,5 +1,7 @@
-<footer class="row">
-  <section class="container">
+
+
+<footer class="row" style="background: #fafafa">
+  <section class="container" style="border-top:2px solid #fafafa">
     <section class="col-md-4">
       <h3>Useful Links</h3>
         <ul>
@@ -16,6 +18,7 @@
       <li><span class="fa fa-map-marker"></span> France / Ghana</li>
       <li><span class="fa fa-phone fa-1x"> +33 62 513 0416  / +233 266328115 </span></li>
       <li><i class="fa fa-envelope"></i> <span itemprop="email"><a href="mailto:info@kamalconsult.com">info@kamalconsult.com</a></span> </li>
+      <li style="font-size:large"><i class="fa fa-skype"></i> afiaboadi</a></li>
   
 
     </ul>
@@ -36,9 +39,9 @@
 
 
 <!-- footer -->
-<section class="row footer ">
+<section class="row footer " style="background: #fafafa">
 	<section class="container">
-	<p> &copy; 2016 Kamal Group</p></section>
+	<p> &copy; 2016 Kamal Consult</p></section>
 </section>
 
 

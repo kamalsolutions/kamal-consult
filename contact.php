@@ -25,6 +25,7 @@
             
             
             <div><i class="fa fa-envelope"></i> <span itemprop="email"><a href="mailto:info@kamalconsult.com">info@kamalconsult.com</a></span></div>
+            <div style="font-size:large"><i class="fa fa-skype"></i> afiaboadi</div>
      </div>
           
 

@@ -37,6 +37,7 @@
 			<li><span class="fa fa-map-marker"></span> France / Ghana</li>
 			<li><i class="fa fa-envelope"></i> <span itemprop="email"><a href="mailto:info@kamalconsult.com">info@kamalconsult.com</a></span></li>
 			<li><span class="fa fa-phone fa-1x"> +33 62 513 0416  / +233 266328115 </span></li>
+			<li style="font-size:large"><i class="fa fa-skype"></i> afiaboadi</a></li>
 
 		</ul>
 

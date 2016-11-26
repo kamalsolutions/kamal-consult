@@ -4,6 +4,7 @@
   <title>Kamal Consult</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Study in France or Study in Ghana with Kamal Consult. Read FAQ for info on Scholarships/Grants and study programs, Bachelors, Master, PhD/Doctorate or Language course.">
   <link rel="shortcut icon" href="assets/img/favicons/favicon.ico">
 
 
@@ -54,7 +55,7 @@
 		<div class="container">
 				<div class="navbar-header">
 					<div class="navbar-brand"> 
-						<a href="index.php">Kamal Consult</a>
+						<a href="index.php"><img src="images/kc-logo.png" class="img-responsive" width="250px" height="250px" alt=""></a>
 					<ul class="list-inline connect">
 					<li> </li>
                     	<!-- <li><a href="#"><span class="fa fa-facebook"></span></a></li>
